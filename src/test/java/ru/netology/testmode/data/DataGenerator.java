@@ -41,9 +41,6 @@ public class DataGenerator {
 
     }
 
-
-
-
     public static String getLogin(){
         return faker.name().username();
     }
